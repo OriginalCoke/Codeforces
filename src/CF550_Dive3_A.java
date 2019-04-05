@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class DiverseStrings {
+public class CF550_Dive3_A {
     //Diverse Strings
     //都是lower case letters, 放进bucket后判断是否 bucket 的桶是连续的, 且都只出现了一次
     public static void main(String[] args) {
